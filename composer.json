@@ -1,12 +1,18 @@
-{
     "repositories": [
         {
-            "type": "vcs",
-            "url": "git@github.com:crislizame/whmcslib.git"
+            "type":"package",
+            "package": {
+                "name": "whmcslib/whmcslib",
+                "version":"master",
+                "source": {
+                    "url": "https://github.com/crislizame/whmcslib.git",
+                    "type": "git",
+                    "reference":"master"
+                }
+            }
         }
     ],
     "require": {
         "crislizame/whmcslib": "dev-master"
     }
 
-}
