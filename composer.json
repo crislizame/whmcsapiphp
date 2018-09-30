@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:crislizame/whmcslib.git"
+        }
+    ],
+    "require": {
+        "crislizame/whmcslib": "dev-master"
+    }
+
+}
