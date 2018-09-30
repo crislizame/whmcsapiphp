@@ -4,6 +4,9 @@
             "package": {
                 "name": "whmcslib/whmcslib",
                 "version":"master",
+                 "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": "Cristopher Lizame",
                 "source": {
                     "url": "https://github.com/crislizame/whmcslib.git",
                     "type": "git",
